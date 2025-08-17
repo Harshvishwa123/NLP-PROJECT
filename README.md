@@ -1,4 +1,3 @@
-# 🧠 Perspective-Aware Healthcare Summarization
 
 This project aims to generate high-quality summaries of healthcare-related Q&A data using multiple **perspectives** such as **CAUSE**, **INFORMATION**, **SUGGESTION**, **QUESTION**, and **EXPERIENCE**. The system combines both **supervised** and **weakly-supervised** methods using state-of-the-art NLP models to improve contextual relevance and diversity in summaries.
 [🔗 Click here to view the paper](https://drive.google.com/file/d/1ebBvkEjKrzX4R1QnLnurbuVhHZb_ox2c/view?usp=sharing)
